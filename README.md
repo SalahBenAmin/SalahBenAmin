@@ -22,7 +22,6 @@
 
 <a href="https://t.me/Salah_Ben_Amin" target="_blank"><img src="https://img.shields.io/badge/-Salah%20Amin-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛑 &nbsp;skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
